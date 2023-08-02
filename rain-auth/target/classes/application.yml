@@ -1,0 +1,6 @@
+server:
+  port: 6000
+
+spring:
+  application:
+    name: rain-auth
