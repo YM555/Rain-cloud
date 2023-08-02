@@ -9,8 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="rain-gateway" />
         <module name="rain-common-security" />
-        <module name="rain-common-core" />
+        <module name="rain-api" />
         <module name="rain-auth" />
+        <module name="rain-common-core" />
+        <module name="rain-admin-api" />
+        <module name="rain-admin" />
       </profile>
     </annotationProcessing>
   </component>

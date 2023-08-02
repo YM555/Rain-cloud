@@ -17,6 +17,9 @@
         <module>rain-common</module>
         <module>rain-common/rain-common-security</module>
         <module>rain-common/rain-common-core</module>
+        <module>rain-services</module>
+        <module>rain-api</module>
+        <module>rain-api/rain-admin-api</module>
     </modules>
 
     <!--
