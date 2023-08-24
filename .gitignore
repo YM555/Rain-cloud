@@ -56,7 +56,6 @@ xcuserdata
 *.ipa
 .metadata/
 .metadata/*
-*.log
 pids
 *.pid
 *.seed
